@@ -43,4 +43,4 @@ private:
 
 std::ostream& operator<<(std::ostream& os, const Rational& r);
 
-} // namespace holo
+} 
